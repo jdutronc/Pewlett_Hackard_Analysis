@@ -5,11 +5,14 @@ Pewlett-Hackard is a large company of thousands of employees that has been aroun
 
 ## Results of the Analysis
 1. Out of a total workforce of 300,024 at Pewlett-Hackard some 72,458 employees will retire in the next few years (24.2%)
-2. About half of the employees retiring are engineers of all levels, as we can see in the table below:
+2. About half of the employees retiring are engineers of all levels, as we can see in the 'Retiring Titles' table below, and about a third are senior staff from all departments:
 <img align='center' src='Retiring_Titles.png' height='200'>
 <br>
 
-3. 
+3. The three departments that will be most impacted by the 'silver tsunami' are Development (25.3%), Production (22.3%) and Sales (16.0%), as we can see in the 'Retirement by Dept' table below:
+<img align='center' src='Retirement_by_Department.png' height='200'>
+<br>
+
 4.
 
 
