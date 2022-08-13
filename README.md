@@ -5,16 +5,13 @@ Pewlett-Hackard is a large company of thousands of employees that has been aroun
 
 ## Results of the Analysis
 1. Out of a total workforce of 300,024 at Pewlett-Hackard some 72,458 employees will retire in the next few years (24.2%)
-2. About half of the employees retiring are engineers, as we can see in the table below
+2. About half of the employees retiring are engineers of all levels, as we can see in the table below:
 <img align='center' src='Retiring_Titles.png' height='200'>
-
+<br>
 
 3. 
 4.
 
-What's going on with the salaries?
-Why are there only five active managers for nine departments?
-Why are some employees appearing twice?
 
 ## Summary
 
