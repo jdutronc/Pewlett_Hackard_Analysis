@@ -13,7 +13,7 @@ Pewlett-Hackard is a large company of thousands of employees that has been aroun
 <img align='center' src='Retirement_by_Department.png' height='200'>
 <br>
 
-4.
+4. Only 1,549 employees are eligible to enroll in the mentorship program
 
 
 ## Summary
