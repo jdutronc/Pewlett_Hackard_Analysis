@@ -21,4 +21,4 @@ Pewlett-Hackard is a large company of thousands of employees that has been aroun
 Some 72,458 employees will retire in the next few years (24.2% of the workforce)
 
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-Assuming all 72,458 positions will be replaced, the mentorship program would only provide a whopping 46 trainees per mentor, which is clearly insufficient so the criteria of the mentorship program have to be revised.
+Assuming all 72,458 positions will be replaced, the mentorship program would only provide a whopping 46 trainees per mentor, which is clearly insufficient so the criteria of the mentorship program have to be revised to include other senior employees born after 1965.
