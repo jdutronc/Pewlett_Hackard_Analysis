@@ -18,7 +18,7 @@ Pewlett-Hackard is a large company of thousands of employees that has been aroun
 ## Summary
 
 ### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-Out of a total workforce of 300,024 at Pewlett-Hackard some 72,458 employees will retire in the next few years (24.2%)
+Some 72,458 employees will retire in the next few years (24.2% of the workforce)
 
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 Assuming all 72,458 positions will be replaced, the mentorship program would only provide a whopping 46 trainees per mentor, which is clearly insufficient so the criteria of the mentorship program have to be revised.
