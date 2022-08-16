@@ -1,10 +1,13 @@
-count,dept_no
-2199,d001
-1908,d002
-1953,d003
-8174,d004
-9281,d005
-2234,d006
-5860,d007
-2413,d008
-2597,d009
+count,dept_no,,
+2199,d001,6.0%,Marketing
+1908,d002,5.2%,Finance
+1953,d003,5.3%,Human Resources
+8174,d004,22.3%,Production
+9281,d005,25.3%,Development
+2234,d006,6.1%,Quality Management
+5860,d007,16.0%,Sales
+2413,d008,6.6%,Research
+2597,d009,7.1%,Customer Service
+,,,
+,,,
+36619,,,
