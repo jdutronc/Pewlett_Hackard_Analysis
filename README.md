@@ -9,14 +9,16 @@ Pewlett-Hackard is a large company of thousands of employees that has been aroun
 <img align='center' src='Retiring_Titles.png' height='200'>
 <br>
 
-3. The three departments that will be most impacted by the 'silver tsunami' are Development (25.3%), Production (22.3%) and Sales (16.0%), as we can see in the 'Retirement by Dept' table below:
+3. The three departments that will be most impacted by the 'silver tsunami' are Development (25.3% of positions due to retire), Production (22.3%) and Sales (16.0%), as we can see in the 'Retirement by Dept' table below:
 <img align='center' src='Retirement_by_Department.png' height='200'>
 <br>
 
-4. Only 1,549 employees are eligible to enroll in the mentorship program
-
+4. Only 1,549 employees are eligible to enroll in the mentorship program.
 
 ## Summary
 
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+Out of a total workforce of 300,024 at Pewlett-Hackard some 72,458 employees will retire in the next few years (24.2%)
+
+### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+Assuming all 72,458 positions will be replaced, the mentorship program would only provide a whopping 46 trainees per mentor, which is clearly insufficient so the criteria of the mentorship program have to be revised.
